@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.100fe3d7.css",
+    "main.js": "/static/js/main.25236826.js",
+    "static/media/machuback.png": "/static/media/machuback.f830a9922b15206e2829.png",
+    "static/media/라마.png": "/static/media/라마.12b1b9dc86ecc7f2a0ce.png",
+    "static/media/htmlprj.png": "/static/media/htmlprj.bc237b95f2b959eb46d6.png",
+    "static/media/book1.png": "/static/media/book1.d521df215a58ffd3085a.png",
+    "static/media/borrowRequest.gif": "/static/media/borrowRequest.e378049fb2c1c2c4f6a0.gif",
+    "static/media/signUp.gif": "/static/media/signUp.5eb90aa8f391c132e967.gif",
+    "static/media/signIn.gif": "/static/media/signIn.8c6694ce91c96ef49fb7.gif",
+    "static/media/uploadBook.gif": "/static/media/uploadBook.b540b4bc2c040c6c5d06.gif",
+    "static/media/book2.png": "/static/media/book2.3f6aa549c9c7f9035114.png",
+    "index.html": "/index.html",
+    "main.100fe3d7.css.map": "/static/css/main.100fe3d7.css.map",
+    "main.25236826.js.map": "/static/js/main.25236826.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.100fe3d7.css",
+    "static/js/main.25236826.js"
+  ]
+}
